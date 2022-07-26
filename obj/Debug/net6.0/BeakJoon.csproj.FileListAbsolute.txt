@@ -1,0 +1,15 @@
+D:\velog\Code\BeakJoon\BeakJoon\bin\Debug\net6.0\BeakJoon.exe
+D:\velog\Code\BeakJoon\BeakJoon\bin\Debug\net6.0\BeakJoon.deps.json
+D:\velog\Code\BeakJoon\BeakJoon\bin\Debug\net6.0\BeakJoon.runtimeconfig.json
+D:\velog\Code\BeakJoon\BeakJoon\bin\Debug\net6.0\BeakJoon.dll
+D:\velog\Code\BeakJoon\BeakJoon\bin\Debug\net6.0\BeakJoon.pdb
+D:\velog\Code\BeakJoon\BeakJoon\obj\Debug\net6.0\BeakJoon.csproj.AssemblyReference.cache
+D:\velog\Code\BeakJoon\BeakJoon\obj\Debug\net6.0\BeakJoon.GeneratedMSBuildEditorConfig.editorconfig
+D:\velog\Code\BeakJoon\BeakJoon\obj\Debug\net6.0\BeakJoon.AssemblyInfoInputs.cache
+D:\velog\Code\BeakJoon\BeakJoon\obj\Debug\net6.0\BeakJoon.AssemblyInfo.cs
+D:\velog\Code\BeakJoon\BeakJoon\obj\Debug\net6.0\BeakJoon.csproj.CoreCompileInputs.cache
+D:\velog\Code\BeakJoon\BeakJoon\obj\Debug\net6.0\BeakJoon.dll
+D:\velog\Code\BeakJoon\BeakJoon\obj\Debug\net6.0\refint\BeakJoon.dll
+D:\velog\Code\BeakJoon\BeakJoon\obj\Debug\net6.0\BeakJoon.pdb
+D:\velog\Code\BeakJoon\BeakJoon\obj\Debug\net6.0\BeakJoon.genruntimeconfig.cache
+D:\velog\Code\BeakJoon\BeakJoon\obj\Debug\net6.0\ref\BeakJoon.dll

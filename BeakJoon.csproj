@@ -9,6 +9,7 @@
 
   <ItemGroup>
     <Compile Remove="1002.cs" />
+    <Compile Remove="1003.cs" />
   </ItemGroup>
 
 </Project>

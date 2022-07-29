@@ -14,6 +14,7 @@
     <Compile Remove="1003.cs" />
     <Compile Remove="1004.cs" />
     <Compile Remove="1005.cs" />
+    <Compile Remove="1008.cs" />
   </ItemGroup>
 
 </Project>

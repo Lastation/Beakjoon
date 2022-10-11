@@ -5,7 +5,7 @@ class Beakjoon_1003
 	static void Main()
 	{
 		// 실행 해야하는 갯수
-		int i_case = int.Parse(Console.ReadLine());
+		string[] i_data = Console.ReadLine().Split();
 
 		for (int i = 0; i < i_case; i++)
 		{

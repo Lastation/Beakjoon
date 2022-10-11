@@ -17,12 +17,17 @@ class Beakjoon_1011
             int i_x = int.Parse(s_data[0]);
             int i_y = int.Parse(s_data[1]);
 
-            int i_result = i_y - i_x;
+            int i_sub = i_y - i_x;
 
-            if (i_result > 2)
-                i_result = (i_result - 2) / 2;
+            int i_n = 0;
+        
+            while (i_sub > i_n * (i_n + 1))
+                i_n += 1;
 
-            Console.WriteLine(i_result);
+            if (i_sub <= MathF.Pow(i_n, 2))
+                Console.WriteLine(i_n * 2 - 1);
+            else
+                Console.WriteLine(i_n * 2);
 
             i_count--;
         }
